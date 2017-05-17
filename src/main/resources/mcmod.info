@@ -1,0 +1,13 @@
+[{
+	"modid": "csb_cobbleores",
+	"name": "Cobblestone Generators Drop Ores",
+	"mcversion": "${mcversion}",
+	"version": "${version}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["csb987"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]
